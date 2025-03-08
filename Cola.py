@@ -94,6 +94,9 @@ def menu():
         elif opcion == "5":
             print("Saliendo del programa.")
             break
+        elif opcion == "6":
+            print("Es mi primer programa")
+            break
         else:
             print("Opción no válida, intente de nuevo.")
 
